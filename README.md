@@ -98,9 +98,8 @@ Bootstrap
 This project is licensed under the MIT License.
 
 # 📬 Contact
-👤 Raj Sirohi
-🌐 GitHub: https://github.com/rajsirohi23
-📧 Email: rajsirohi2555@gmail.com
+👤 Erica Sharma
+
 
 
 ⭐ If you like this project, please give it a star on GitHub! ⭐
